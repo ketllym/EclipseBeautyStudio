@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Eclipse Beauty Studio</title>
+</head>
+<body>
+    <h1>🌑 Eclipse Beauty Studio</h1>
+    <p>Brilhe em cada fase.</p>
+    <p>No Eclipse Beauty Studio, acreditamos que a beleza vai muito além da aparência — ela acompanha seus ciclos, suas transformações e sua evolução.</p>
+    <p>Inspirado na força e no mistério da lua, criamos um espaço onde cada mulher é acolhida em seu momento único. Aqui, você não é apenas atendida: você é vista, respeitada e valorizada em cada detalhe.</p>
+    <hr>
+    <h2>✨ Sobre nós</h2>
+    <p>Somos um studio de beleza que une técnica, sensibilidade e propósito.</p>
+    <p>Nosso trabalho é guiado pela ideia de que cada fase da vida merece cuidado, atenção e brilho. Por isso, oferecemos experiências de autocuidado que respeitam sua essência e fortalecem sua autoestima.</p>
+    <p>Mais do que transformar a aparência, queremos transformar a forma como você se sente consigo mesma.</p>
+    <hr>
+    <h2>💇‍♀️ Nossos serviços</h2>
+    <p>Oferecemos um atendimento personalizado, focado em realçar sua beleza natural com segurança e excelência.</p>
+    <h3>Cabelo</h3>
+    <p>Especialistas em curvaturas de 2A a 4C, com técnicas que valorizam a textura natural dos fios.</p>
+    <h3>Estética</h3>
+    <p>Cuidados que promovem bem-estar, equilíbrio e revitalização da pele.</p>
+    <h3>Autocuidado</h3>
+    <p>Experiências pensadas para você desacelerar, se reconectar e se priorizar.</p>
+    <hr>
+    <h2>🌿 Nossa especialidade</h2>
+    <p>Entendemos que cada cabelo tem sua história, sua estrutura e sua identidade.</p>
+    <p>Por isso, somos especializados em curvaturas de 2A a 4C, oferecendo um atendimento cuidadoso, personalizado e livre de padrões — sempre respeitando a beleza natural de cada cliente.</p>
+    <p>Aqui, seu cabelo não precisa se encaixar — ele é valorizado exatamente como é.</p>
+    <hr>
+    <h2>🌙 Nossa experiência</h2>
+    <p>O Eclipse Beauty Studio foi criado para ser mais do que um salão.</p>
+    <p>Nosso ambiente é elegante, acolhedor e levemente sofisticado — um espaço onde você pode relaxar, se sentir segura e viver um momento só seu.</p>
+    <p>Cada detalhe foi pensado para proporcionar conforto, conexão e bem-estar.</p>
+    <hr>
+    <h2>✨ Nossa essência</h2>
+    <p>🌑 Cada cliente é uma fase<br>✨ Cada fase merece brilhar</p>
+    <p>Acreditamos na beleza real, na autenticidade e no poder da transformação que começa de dentro para fora.</p>
+    <hr>
+    <h2>📅 Agende seu momento</h2>
+    <p>Permita-se viver essa experiência.</p>
+    <p>Agende seu horário e descubra um novo jeito de cuidar de você — com leveza, atenção e significado.</p>
+    <button>Agendar agora</button>
+</body>
+</html>
